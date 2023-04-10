@@ -4,3 +4,4 @@ Below is the tech stack used:
 - React.
 - Typescript.
 - HTML.
+- CSS/Bootstrap
